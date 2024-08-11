@@ -31,6 +31,7 @@ I’m **Ammar Ahmad**, the CEO of **Its IT Group**, where I lead our dynamic tea
 ### 📫 How to reach me:
 - **Email**: ammar@itsitgroup.com
 - **Website**: [Its IT Group](https://www.itsitgroup.com/)
+- **Its IT Group - Github**: [github/itsitgroup](https://github.com/itsitgroup)
 
 ### ⚡ Fun fact:
 I'm passionate about pushing the boundaries of what's possible with AI and machine learning, constantly exploring new technologies and methodologies to drive innovation.
